@@ -27,7 +27,7 @@
 .sectionContent {
 	float: right;
 	width: 72.5%;
-	font-family:  `arial, **sans-serif**` ;
+	font-family:  arial, sans-serif ;
 }
 
 
@@ -55,5 +55,9 @@ body {
 	margin-left: 50px;
 	margin-right: 50px;
 	background-color: #f3f3f3;
+	font-family: lato, sans-serif;
+}
+h2 {
+	font-family: helvetica;
 }
 
